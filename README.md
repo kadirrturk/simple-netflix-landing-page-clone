@@ -8,7 +8,6 @@ This repository contains the code needed to create a Netflix inspired homepage u
 
 ## Features
 
-- Responsive design: The web page adapts to different screen sizes, ensuring a consistent user experience on desktop and mobile devices.
 - Interactive components: The page includes interactive elements such as buttons, dropdown menus, and hover effects.
 - Dynamic content: Placeholder content is used to mimic Netflix's movie and TV show recommendations.
 - CSS styling: The stylesheets provide a sleek and modern look, resembling the Netflix branding.

@@ -38,6 +38,6 @@ git clone https://github.com/kadirrturk/simple-netflix-landing-page-clone.git
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Your Name : [Yiğit Kadir Türk](https://www.linkedin.com/in/yiğit-kadir-türk-8575b8280/)
+- My Name: [Yiğit Kadir Türk](https://www.linkedin.com/in/yiğit-kadir-türk-8575b8280/)
 - Email: [ezeqboi@gmail.com](mailto:ezeqboi@gmail.com)
 

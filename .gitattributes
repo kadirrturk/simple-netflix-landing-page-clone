@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Git Ignore
+
+# İzin verilen dosya türleri - Allowed file types
+*.html
+*.css
+*.png binary
+
+# Genel dosyalar ve klasörler - General files and folders
+/images/
+/favicon.png
